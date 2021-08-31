@@ -1,4 +1,4 @@
-## 1985. Find the Kth Largest Integer in the Array
+## 1985. Find the Kth Largest Integer in the Array (Medium)
 
 [題目連結](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)
 

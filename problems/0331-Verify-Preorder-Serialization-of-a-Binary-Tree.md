@@ -5,8 +5,8 @@
 ### 我的解題思路
 
 <p float="left">
-  <a href="./img/0331/1.jpg"><img src="./img/0331/1.jpg" width="300px" /></a>
-  <a href="./img/0331/2.jpg"><img src="./img/0331/2.jpg" width="300px" /></a>
+  <img src="./img/0331/1.jpg" width="300px" />
+  <img src="./img/0331/2.jpg" width="300px" />
 </p>
 
 - 憑空想像實在困難，所以後來就決定拿紙來構思（有紙沒紙差超多）
