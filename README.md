@@ -14,4 +14,9 @@
 
 | # | Title | Solution | Date | Difficulty |        |
 |---| ----- | -------- | ---- | ---------- | ------ |
-|1986|[Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks)|尚未AC|2021-08-29|Medium|Memoization、DP|
+|1986|[Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks)|尚未AC|2021-08-29|Medium|Memoization、DP、**可參考競賽排行前幾的code**|
+
+## 競賽
+| Contest | Rank | Q1 | Q2 | Q3 | Q4 | Date |
+| ------- | ---- |----|----|----|----| ---- |
+|[Weekly Contest 256](https://leetcode.com/contest/weekly-contest-256/ranking/)|3980 / 12936 (69.23%)|[C++](./problems/1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.md)|[C++](./problems/1985-Find-the-Kth-Largest-Integer-in-the-Array.md)|||2021-08-29|
