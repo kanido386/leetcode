@@ -11,6 +11,13 @@
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[C++](./problems/1929-Concatenation-of-Array.md)|2021-08-25|Easy|熱身題|
 |1984|[Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|[C++](./problems/1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.md)|2021-08-29|Easy||
 |1985|[Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)|[C++](./problems/1985-Find-the-Kth-Largest-Integer-in-the-Array.md)|2021-08-29|Medium||
+|1995|[Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)|[C++](./problems/1995-Count-Special-Quadruplets.md)|2021-09-05|Easy|Brute Force|
+
+## 已理解但還沒做
+
+|  #  | Title | Solution | Date | Difficulty |        |
+|:---:| ----- | -------- | ---- | ---------- | ------ |
+|1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|尚未AC|2021-09-05|Medium||
 
 ## 找時間去理解
 
@@ -23,3 +30,4 @@
 | Contest | Rank | Q1 | Q2 | Q3 | Q4 | Date |
 | ------- | ---- |----|----|----|----| ---- |
 |[Weekly Contest 256](https://leetcode.com/contest/weekly-contest-256/ranking/)|3895 / 12937 (69.89%)|[C++](./problems/1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.md)|[C++](./problems/1985-Find-the-Kth-Largest-Integer-in-the-Array.md)|||2021-08-29|
+|[Weekly Contest 257](https://leetcode.com/contest/weekly-contest-257/ranking/)||[C++](./problems/1995-Count-Special-Quadruplets.md)||||2021-09-05|
